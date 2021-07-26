@@ -1,0 +1,11 @@
+alipay:
+#  appId: 2021000117688216
+  appId:
+#  privateKey:
+  privateKey:
+  alipayPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2AKd5pdlkvkdw5ceATHxE5Y0iULn5ctHnbY+IQST8lyxEhss+qW1LuTe3BLN7olCKvRvorRakqOp/wAWuhZ+3RzkO7XrZxxXbG14Iq7V9ftjXbwBYP/jExpnGWyUVdpALCkPkbGRJGwzRWQFF55GSePkLW3VioAi/fIq36jxiVeuwRANQ/QJmRtftNZpH871ceNHMiHd/Cjv/Bf4a+kMyyRqst5UpK/cHiyPfwHV7s44QgxHgfa4pjb2kJk3JSiG7ByEzjquwjOtXZqBl49x8a9/DAgySGpNb+xc6pYfcBZa05m6FO+3/OtWkCk349MFHiR6nYwAUJyLjN17cgyRJQIDAQAB
+#  alipayPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApN+RP00L2vRd7PfDV2AMCu9DDrqdLl7ztHN3IFm/pNjV1ZXZ01gaeeFIVvZX3x3aWFuPlnlUYOEr2xKKVebJNHSZvWOoRsEXaiO0Zk8hPHkFqWcciuh0tSwLhJ3AwZy0B1YU1hPtIO8N2kVqL0t3c0wnGEaJx0ke8orIM+yd/S8FcJ0XNWpbfcGxiL+1nmw3MfUoK6wePdJfbbzZ34k4nNzHocxWY7ttcJUPT41DI4BF4AyDYppcPSxpr9zDtjmqjFO+rjadFc/JO3j+X9jXDg1DFkXWlivqGNJucSyN/MzejNo5LwsBA4o0goVEeJ5SEYLgqP32rJ4zk1eEeEpYbwIDAQAB
+  serverUrl: https://openapi.alipaydev.com/gateway.do
+  charset: UTF-8
+  format: json
+  signType: RSA2
